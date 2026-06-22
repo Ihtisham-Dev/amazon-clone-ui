@@ -1,6 +1,6 @@
 # Amazon Clone UI
 
-A Amazon-inspired e-commerce website frontend developed using HTML, and CSS
+An Amazon-inspired e-commerce website frontend developed using HTML, and CSS
 
 ## Features
 - Responsive design
